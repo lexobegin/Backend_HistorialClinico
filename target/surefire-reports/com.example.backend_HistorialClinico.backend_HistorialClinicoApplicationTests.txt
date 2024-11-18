@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.backend_HistorialClinico.backend_HistorialClinicoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 36.37 s -- in com.example.backend_HistorialClinico.backend_HistorialClinicoApplicationTests
