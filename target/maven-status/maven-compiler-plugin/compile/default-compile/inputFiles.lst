@@ -1,84 +1,84 @@
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Auth\AuthController.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Auth\AuthResponse.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Auth\AuthService.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Auth\LoginRequest.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Auth\RegisterRequest.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Auth\UsernameRequest.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Auth\UserResponse.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\backend_HistorialClinicoApplication.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\config\ApplicationConfig.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\config\SecurityConfig.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\controller\DemoController.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\jwt\JwtAuthenticationFilter.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\jwt\JwtService.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\controller\AntecedenteController.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\controller\CitaController.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\controller\ConsultaController.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\controller\DiagnosticoController.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\controller\RecetaController.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\controller\TriajeController.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\entity\Antecedente.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\entity\Cita.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\entity\Consulta.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\entity\Diagnostico.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\entity\Medicamento.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\entity\Receta.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\entity\Triaje.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\repository\AntecedenteRepository.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\repository\CitaRepository.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\repository\ConsultaRepository.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\repository\DiagnositicoRepository.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\repository\MedicamentoRepository.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\repository\RecetaRepository.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\repository\TriajeRepository.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\services\AntecedenteService.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\services\CitaService.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\services\ConsultaService.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\services\DiagnosticoService.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\services\RecetaService.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\services\TriajeService.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\controller\BitacoraController.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\controller\DepatamentosController.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\controller\EspecialidadController.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\controller\HorarioMedicoController.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\controller\MedicoController.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\controller\ServiciosController.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\entity\Bitacora.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\entity\BloqueMedico.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\entity\Departamentos.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\entity\Especialidades.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\entity\Horario_medico.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\entity\Medico.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\entity\Servicios.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\repository\BitacoraRepository.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\repository\BloqueMedicoRepository.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\repository\DepartamentosRepository.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\repository\EspecialidadesRepository.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\repository\HorarioMedicoRepository.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\repository\MedicoRepository.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\repository\ServiciosRepository.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\services\BitacoraService.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\services\DepartamentosServices.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\services\EspecialidadServices.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\services\HorarioMedicoService.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\services\MedicoServices.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\services\ServiciosServices.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\specifications\MedicoSpecifications.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionUsuarios\controller\PermisosController.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionUsuarios\controller\RolesController.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionUsuarios\controller\UsuarioController.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionUsuarios\entity\Permisos.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionUsuarios\entity\Roles.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionUsuarios\entity\User.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionUsuarios\repository\PermisosRepository.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionUsuarios\repository\RolesRepository.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionUsuarios\repository\UserRepository.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionUsuarios\services\PermisosServices.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionUsuarios\services\RolesServices.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionUsuarios\services\UsuarioServices.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\Reportes\controller\ReporteController.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\Reportes\dto\OrdenRequest.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\Reportes\dto\ReporteRequest.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\Reportes\services\ReporteService.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\Reportes\utils\ExcelGenerator.java
-E:\CURSOVIRTUAL\II-2024\SI II\PROYECTO X\2P JOEL\Backend_HistorialClinico-master\src\main\java\com\example\backend_HistorialClinico\Modulos\Reportes\utils\PDFGenerator.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Auth\AuthController.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Auth\AuthResponse.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Auth\AuthService.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Auth\LoginRequest.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Auth\RegisterRequest.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Auth\UsernameRequest.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Auth\UserResponse.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\backend_HistorialClinicoApplication.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\config\ApplicationConfig.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\config\SecurityConfig.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\controller\DemoController.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\jwt\JwtAuthenticationFilter.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\jwt\JwtService.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\controller\AntecedenteController.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\controller\CitaController.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\controller\ConsultaController.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\controller\DiagnosticoController.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\controller\RecetaController.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\controller\TriajeController.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\entity\Antecedente.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\entity\Cita.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\entity\Consulta.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\entity\Diagnostico.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\entity\Medicamento.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\entity\Receta.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\entity\Triaje.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\repository\AntecedenteRepository.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\repository\CitaRepository.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\repository\ConsultaRepository.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\repository\DiagnositicoRepository.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\repository\MedicamentoRepository.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\repository\RecetaRepository.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\repository\TriajeRepository.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\services\AntecedenteService.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\services\CitaService.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\services\ConsultaService.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\services\DiagnosticoService.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\services\RecetaService.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\AtencionesMedicas\services\TriajeService.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\controller\BitacoraController.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\controller\DepatamentosController.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\controller\EspecialidadController.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\controller\HorarioMedicoController.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\controller\MedicoController.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\controller\ServiciosController.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\entity\Bitacora.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\entity\BloqueMedico.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\entity\Departamentos.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\entity\Especialidades.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\entity\Horario_medico.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\entity\Medico.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\entity\Servicios.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\repository\BitacoraRepository.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\repository\BloqueMedicoRepository.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\repository\DepartamentosRepository.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\repository\EspecialidadesRepository.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\repository\HorarioMedicoRepository.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\repository\MedicoRepository.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\repository\ServiciosRepository.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\services\BitacoraService.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\services\DepartamentosServices.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\services\EspecialidadServices.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\services\HorarioMedicoService.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\services\MedicoServices.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\services\ServiciosServices.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionEmpleados\specifications\MedicoSpecifications.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionUsuarios\controller\PermisosController.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionUsuarios\controller\RolesController.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionUsuarios\controller\UsuarioController.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionUsuarios\entity\Permisos.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionUsuarios\entity\Roles.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionUsuarios\entity\User.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionUsuarios\repository\PermisosRepository.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionUsuarios\repository\RolesRepository.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionUsuarios\repository\UserRepository.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionUsuarios\services\PermisosServices.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionUsuarios\services\RolesServices.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\GestionUsuarios\services\UsuarioServices.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\Reportes\controller\ReporteController.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\Reportes\dto\OrdenRequest.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\Reportes\dto\ReporteRequest.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\Reportes\services\ReporteService.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\Reportes\utils\ExcelGenerator.java
+C:\Users\DELL\Documents\GitHub\Backend_HistorialClinico\src\main\java\com\example\backend_HistorialClinico\Modulos\Reportes\utils\PDFGenerator.java
